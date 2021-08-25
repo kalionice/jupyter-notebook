@@ -1,3 +1,3 @@
-# jupytar-notebook
+# jupyter-notebook
 
 python bigdata analysis
